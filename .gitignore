@@ -1,0 +1,8 @@
+en-id*
+weights*
+weights/*
+runs
+__pycache__/
+.ipynb_checkpoints
+# tokenizer*
+preprocessed_data/cache*
